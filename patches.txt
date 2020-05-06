@@ -1,0 +1,2 @@
+#Get display hal to work
+275141 https://review.lineageos.org/ hardware/qcom-caf/sm8150/display
