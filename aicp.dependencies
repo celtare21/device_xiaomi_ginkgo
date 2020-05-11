@@ -1,14 +1,17 @@
 [
   {
-    "repository": "DarkDampSquib/vendor_MiuiCamera",
-    "target_path": "vendor/ANXCamera",
-    "branch": "master",
-    "remote": "github"
+    "repository":  "AICP/kernel_xiaomi_ginkgo",
+    "target_path": "kernel/xiaomi/ginkgo",
+    "branch":      "q10.0"
   },
   {
-    "repository": "pshreejoy15/vendor_xiaomi_firmware",
-    "target_path": "vendor/xiaomi/firmware",
-    "branch": "ten",
-    "remote": "gitlab"
+    "repository":  "AICP/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "q10.0"
+  },
+  {
+    "repository":  "DarkDampSquib/vendor_MiuiCamera",
+    "target_path": "vendor/ANXCamera",
+    "branch":      "master"
   }
 ]
