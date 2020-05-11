@@ -1,2 +1,6 @@
-#Get display hal to work
-275141 https://review.lineageos.org/ hardware/qcom-caf/sm8150/display
+# Get display hal to work
+275408/1 https://review.lineageos.org hardware/qcom-caf/sm8150/display
+
+# We're using our own camera service
+101034/1 http://gerrit.aicp-rom.com vendor/aicp
+101033/1 http://gerrit.aicp-rom.com frameworks/av
